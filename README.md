@@ -1,4 +1,4 @@
-# lista_tarefas
+#Lista de tarefas
 
 Um novo projeto flutter, destinado a estudos.
 
